@@ -1,4 +1,4 @@
-# MT5 Indicator and Expert Advisor Source Code (Free).
+# MT5 Indicator & EA Code Free.
 
 ## Description:
 This repository provides a collection of various Expert Advisors (EAs) and Indicator source codes absolutely free of cost. All shared codes here are open-source and can be downloaded and used without any restrictions. This platform is open to both traders and developers who want to use or modify custom EAs and indicators for Forex or other market analysis.  
