@@ -39,12 +39,6 @@ You are also welcome to contribute your own codes so that everyone can benefit.
 
 ---
 
-## 📸 Screenshots
-
- ![Buy Signal](Capture.JPG)
-
----
-
 ## 📢 Alerts
 
 - Real-time pop-up + sound alerts
@@ -70,4 +64,11 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 🙌 Contributions
 
 Pull requests and suggestions are welcome! If you find bugs or want to improve performance, feel free to submit an issue.
+
+---
+
+## 📸 All Indicator Screenshots
+
+ (Capture.JPG)
+ 
 
