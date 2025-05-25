@@ -69,6 +69,6 @@ Pull requests and suggestions are welcome! If you find bugs or want to improve p
 
 ## 📸 All Indicator Screenshots
 
- (Capture.JPG)
+SMC Indicator (Capture.JPG)
  
 
