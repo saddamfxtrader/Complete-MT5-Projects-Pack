@@ -50,7 +50,8 @@ This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Exp
 
 ## 📸 Screenshots
 
-> _You can add screenshots here to show how the indicator/EA looks on the chart._
+![Your Alt Text]([images/your-image-name.png](https://drive.google.com/file/d/1j9bmygtFN8hu_Adhb3quS0tnKu62JQU9/view?usp=drive_link))
+
 
 ---
 
