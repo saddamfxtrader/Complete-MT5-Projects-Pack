@@ -1,12 +1,12 @@
 //+------------------------------------------------------------------+
 //|                                        FractalLevels_ShortPeriod |
-//|                                        Copyright © 2008, lotos4u |
-//|                                                lotos4u@gmail.com |
+//|                                        Copyright © 2025, Saddam FX Trader |
+//|                                                saddamfxtrader@gmail.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2008, lotos4u"
-#property link      "lotos4u@gmail.com"
+#property copyright "Copyright © 2025, saddam"
+#property link      "saddamfxtrader@gmail.com"
 #property description "Fractal Levels - Shortest Period for Quick Breakouts"
-#property version   "1.05"
+#property version   "1.1"
 #property indicator_chart_window 
 #property indicator_buffers 6
 #property indicator_plots   6
