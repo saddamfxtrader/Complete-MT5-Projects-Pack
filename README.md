@@ -1,11 +1,6 @@
-# 📈 MT5 Indicator and Expert Advisor Suite
+# MT5 Indicator and Expert Advisor Source Code (Free).
 
-
-
-# EA & Indicator Source Code Collection (Free)
-
-
-## English:
+## Description:
 This repository provides a collection of various Expert Advisors (EAs) and Indicator source codes absolutely free of cost. All shared codes here are open-source and can be downloaded and used without any restrictions. This platform is open to both traders and developers who want to use or modify custom EAs and indicators for Forex or other market analysis.  
 You are also welcome to contribute your own codes so that everyone can benefit.
 
@@ -26,35 +21,9 @@ You are also welcome to contribute your own codes so that everyone can benefit.
 > - নিয়মিত আপডেট
 > - ট্রেডার ও ডেভেলপারদের জন্য কমিউনিটি সাপোর্ট
 
-
-
 ---
 
 **Enjoy trading and happy coding!**
-
-
-
-This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Expert Advisor (EA) designed to enhance precision trading using advanced logic like RSI filters, Smart Money Concepts (SMC), Fair Value Gaps (FVG), Order Blocks (OB), and volume confirmation.
-
----
-
-## ⚙️ Features
-
-### 🔹 Indicator:
-- RSI-based filtering (multi-timeframe)
-- Bullish/Bearish Order Block detection
-- Fair Value Gap (FVG) visualization
-- Volume spike confirmation
-- Smart Liquidity Grab logic
-- Signal strength scoring
-- Real-time alerts and chart labels
-
-### 🔹 Expert Advisor (EA):
-- Auto-trading based on indicator signals
-- Risk management settings (lot size, SL/TP)
-- Signal delay filters
-- HTF trend confirmation
-- Works on low-latency M1 scalping (Binary/Forex)
 
 ---
 
@@ -67,18 +36,6 @@ This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Exp
    `MQL5/Experts/` → Copy the `.mq5` EA files
 4. Open **MetaEditor**, compile the files.
 5. Restart MT5 or refresh the Navigator panel.
-
----
-
-## ✅ Recommended Settings
-
-| Setting             | Value                  |
-|---------------------|------------------------|
-| Timeframe           | M1 (main), M5/M15 (HTF)|
-| Pair                | EURUSD, GBPUSD         |
-| RSI Period          | 7                      |
-| Signal Check Delay  | 5 seconds before candle close |
-| Volume Filter       | Enabled                |
 
 ---
 
