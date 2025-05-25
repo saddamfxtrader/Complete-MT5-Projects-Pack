@@ -50,7 +50,7 @@ This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Exp
 
 ## 📸 Screenshots
 
- ![Buy Signal](images/.JPG)
+ ![Buy Signal](Capture.JPG)
 
 ---
 
