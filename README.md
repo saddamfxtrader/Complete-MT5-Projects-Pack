@@ -50,7 +50,7 @@ This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Exp
 
 ## 📸 Screenshots
 
-![Your Alt Text]([images/your-image-name.png](https://drive.google.com/file/d/1j9bmygtFN8hu_Adhb3quS0tnKu62JQU9/view?usp=drive_link))
+![Your Alt Text]([[images/your-image-name.png](https://drive.google.com/file/d/1j9bmygtFN8hu_Adhb3quS0tnKu62JQU9/view?usp=drive_link)](https://github.com/saddamfxtrader/SMC-Fractal-Levels-MT5-Indicator-Source-Code/blob/7c372d1dad06daed4b266852151ff6897128b84a/Capture.JPG))
 
 
 ---
