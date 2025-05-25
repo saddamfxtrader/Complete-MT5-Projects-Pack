@@ -1,5 +1,39 @@
 # 📈 MT5 Indicator and Expert Advisor Suite
 
+
+
+# EA & Indicator Source Code Collection (Free)
+
+
+## English:
+This repository provides a collection of various Expert Advisors (EAs) and Indicator source codes absolutely free of cost. All shared codes here are open-source and can be downloaded and used without any restrictions. This platform is open to both traders and developers who want to use or modify custom EAs and indicators for Forex or other market analysis.  
+You are also welcome to contribute your own codes so that everyone can benefit.
+
+> **Features:**
+> - 100% Free Access
+> - Open Source Codes
+> - Regular Updates
+> - Community support for traders and developers
+
+
+## বাংলা:
+এই রিপোজিটরিটিতে আপনি পাবেন বিভিন্ন ধরনের এক্সপার্ট এডভাইজার (EA) এবং ইন্ডিকেটরের সোর্স কোড সম্পূর্ণ ফ্রি-তে। এখানে শেয়ারকৃত সমস্ত কোড আপনি বিনামূল্যে ডাউনলোড ও ব্যবহার করতে পারবেন। এই প্ল্যাটফর্মটি ট্রেডার এবং ডেভেলপারদের জন্য উন্মুক্ত, যারা ফরেক্স বা অন্যান্য মার্কেট বিশ্লেষণে কাস্টম EA বা ইন্ডিকেটর ব্যবহার করতে চান।  
+আপনারা চাইলে নিজেদের তৈরি কোডও কন্ট্রিবিউট করতে পারেন, যাতে সবাই উপকৃত হতে পারেন।
+
+> **বৈশিষ্ট্যসমূহ:**
+> - ১০০% ফ্রি এক্সেস
+> - ওপেন সোর্স কোড
+> - নিয়মিত আপডেট
+> - ট্রেডার ও ডেভেলপারদের জন্য কমিউনিটি সাপোর্ট
+
+
+
+---
+
+**Enjoy trading and happy coding!**
+
+
+
 This repository contains a custom-built **MetaTrader 5 (MT5)** indicator and Expert Advisor (EA) designed to enhance precision trading using advanced logic like RSI filters, Smart Money Concepts (SMC), Fair Value Gaps (FVG), Order Blocks (OB), and volume confirmation.
 
 ---
